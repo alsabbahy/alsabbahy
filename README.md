@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Alsabbahy</h1>
-<h3 align="center">A passionate software engineer from Egypt</h3>
+<h3 align="center">A Senior software engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alsabbahy&label=Profile%20views&color=0e75b6&style=flat" alt="alsabbahy" /> </p>
 
@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedalsabbahy" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedalsabbahy?logo=twitter&style=for-the-badge" alt="ahmedalsabbahy" /></a> </p>
 
-- 🔭 I’m currently working on [IOMeter](https://play.google.com/store/apps/details?id=com.thed.iometer&hl=en&gl=US&pli=1)
+- 🔭 I’m currently founder of [Alsabbahy Technology](https://www.alsabbahy.com)
 
-- 🌱 I’m currently learning **Next.js, Sanity.io, Fullstack serverless development, testing**
+- 🌱 I’m currently learning **Solution Architecture, AI & ML engineering & MLOps**
 
-- 👯 I’m looking to collaborate on **Startup Business Idea**
+- 👯 I’m looking to collaborate on **Technology Partnerships with Startups**
 
-- 🤝 I’m looking for help with **Learning cloud development**
+- 🤝 I’m looking for help with **Business Ideation**
 
-- 👨‍💻 All of my projects are available at [https://alsabbahy.github.io/vanilla-landing-react/](https://alsabbahy.github.io/vanilla-landing-react/)
+- 👨‍💻 All of my projects are available at [https://ahmed.alsabbahy.com](https://ahmed.alsabbahy.com)
 
-- 📝 I regularly write articles on [https://alsabbahy.github.io/vanilla-landing-react/my-blog](https://alsabbahy.github.io/vanilla-landing-react/my-blog)
+- 💬 Ask me about **software engineering, backend, frotend, scalability, high complexity systems, fintech**
 
-- 💬 Ask me about **Backend development, software engineering**
+- 📫 How to reach me **ahmed.alsabbahy@gmail.com, ahmed@alsabbahy.com**
 
-- 📫 How to reach me **ahmed.alsabbahy@gmail.com**
+- 🔗 My linkedin [Ahmed Mostafa Alsabbahy](http://linkedin.com/in/ahmedmostafaalsabbahy)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15q0JybyLbaSEtbwWO9-agjSSbr0GCflR/view?usp=sharing](https://drive.google.com/file/d/15q0JybyLbaSEtbwWO9-agjSSbr0GCflR/view?usp=sharing)
 
